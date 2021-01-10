@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:rlatjqcks@gmail.com"
+#       url: "mailto:rlatjqcks@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://seopchan.github.io"
