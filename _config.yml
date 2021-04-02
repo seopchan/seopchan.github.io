@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "ko"
-title                    : "Dev.Chan"
+title                    : "Dev.Chan Blog"
 title_separator          : "Dev.Chan"
 subtitle                 : "개발 블로그"# site tagline that appears below site title in masthead
 name                     : "Chan"
