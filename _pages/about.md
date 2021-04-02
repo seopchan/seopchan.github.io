@@ -1,5 +1,5 @@
 ---
-title: "Chan's Blog 설명서"
+title: "Dev.Chan 설명서"
 permalink: /about/
 layout: single
 
